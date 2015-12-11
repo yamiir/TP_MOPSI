@@ -1,0 +1,3 @@
+PROJECT(TP2DING_Hongyang)
+ 
+ADD_EXECUTABLE(main.cpp)

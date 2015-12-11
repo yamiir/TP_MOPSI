@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.cpp"
+            timestampString = "471020369.379895"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "Polynome::derivee()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.cpp"
+            timestampString = "471019177.074075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Polynome::derivee()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.cpp"
+            timestampString = "471427743.726041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "Function::inverse(float y)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.hpp"
+            timestampString = "471037320.945139"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "class Polynome"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::Trigo(Trigo const&amp;)"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471028601.761829"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::~Trigo()"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471028601.762333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::~Trigo()"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471028601.762561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::Trigo(Trigo const&amp;)"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471028601.762781"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::~Trigo()"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471028601.763364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.hpp"
+            timestampString = "471037320.945139"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "class Polynome"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::Trigo(Trigo const&amp;)"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471029004.750091"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::~Trigo()"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471029004.750477"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::~Trigo()"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471029004.750825"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::Trigo(Trigo const&amp;)"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471029004.751277"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trigo::~Trigo()"
+                  moduleName = "TP5_DING_Hongyang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhy/Desktop/MOPSI/info/TP5_DING_Hongyang/TP5_DING_Hongyang/class.hpp"
+                  timestampString = "471029004.75154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.cpp"
+            timestampString = "471028648.568101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "Function::inverse(float y)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.cpp"
+            timestampString = "471427743.726041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "Function::inverse(float y)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TP5_DING_Hongyang/class.hpp"
+            timestampString = "471426957.484188"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "class affine"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
